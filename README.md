@@ -8,3 +8,4 @@ Uploading my R Code for my everyday sessions.
 4. Salary.csv file is from the part 4 session. 
 5. R Day 5 - Part 5 session on - Control Structures - IF, IF ELSE, NESTED ELSE IF, Loops - for Loop, While loop, Repeat Loop, Statements - Break and Next
 6. R Day 6 - Part 6 session on - Functions, Built-in Function, User defined functions, and apply(), lappy(), sapply(), tapply() functions. 
+7. R Day 7 - Part 7 session on - String Manipulations. 
