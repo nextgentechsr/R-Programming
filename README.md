@@ -10,4 +10,4 @@ Uploading my R Code for my everyday sessions.
 6. R Day 6 - Part 6 session on - Functions, Built-in Function, User defined functions, and apply(), lappy(), sapply(), tapply() functions. 
 7. R Day 7 - Part 7 session on - String Manipulations. 
 8. R Day 8 - Part 8 Session on - Plotting Graphs in Base R. 
-9. R Day 9 - Part 9 Session on - Install package in R studio, Dplyr package and its built-in functions
+9. R Day 9 - Part 9 Session on - Install package in R studio, Dplyr package and its built-in functions, for this session we are using the titani dataset please check the titanic-trimmed.csv for the dataset. 
